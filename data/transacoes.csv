@@ -1,0 +1,9 @@
+id,valor,localizacao,dispositivo,horario,score_risco
+1,120,SP,mobile,10,20
+2,5000,RJ,desktop,2,85
+3,300,SP,mobile,14,30
+4,7000,MG,desktop,3,90
+5,150,SP,mobile,11,25
+6,9000,BA,desktop,1,95
+7,200,SP,mobile,16,35
+8,8500,RS,desktop,4,88

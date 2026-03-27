@@ -2,7 +2,9 @@
 
 
 
-Projeto de detecção de padrões suspeitos em transações financeiras usando SQL e Python.
+\## Objetivo
+
+Identificar transações suspeitas com base em valor e score de risco.
 
 
 
@@ -12,11 +14,19 @@ Projeto de detecção de padrões suspeitos em transações financeiras usando S
 
 \- Python (Pandas)
 
-\- Power BI
+
+
+\## Análise
+
+Foram identificadas transações com:
+
+\- Valor acima de 5000
+
+\- Score de risco acima de 80
 
 
 
-\## Objetivo
+\## Resultado
 
-Identificar possíveis fraudes com base em comportamento anômalo.
+O modelo simples identificou padrões básicos de fraude que podem ser usados como base para sistemas reais.
 
