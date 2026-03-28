@@ -1,32 +1,49 @@
-\# Fraud Detection Project
+# Fraud Detection Analysis
 
+## 📌 Objective
+Analyze transaction data to identify fraud patterns and risk indicators using SQL and Python.
 
+---
 
-\## Objetivo
+## 📊 Context
+This project simulates real-world fraud analysis scenarios, focusing on transaction monitoring, anomaly detection and risk evaluation.
 
-Identificar transações suspeitas com base em valor e score de risco.
+---
 
+## 🛠️ Technologies
+- SQL (PostgreSQL)
+- Python (Pandas)
+- Jupyter Notebook
 
+---
 
-\## Tecnologias
+## 🔍 Analysis Performed
 
-\- SQL
+- Identification of suspicious transactions based on value and frequency
+- Creation of fraud detection rules
+- Calculation of anomaly rate
+- Exploratory Data Analysis (EDA)
 
-\- Python (Pandas)
+---
 
+## 📈 Key Insights
 
+- High-value transactions concentrated in short time intervals indicate risk patterns
+- Repeated transactions from same user increase fraud probability
+- Behavioral patterns are critical for fraud detection
 
-\## Análise
+---
 
-Foram identificadas transações com:
+## 🚀 How to Run
 
-\- Valor acima de 5000
+1. Clone repository
+2. Open notebooks
+3. Run analysis
 
-\- Score de risco acima de 80
+---
 
+## 🎯 Learnings
 
-
-\## Resultado
-
-O modelo simples identificou padrões básicos de fraude que podem ser usados como base para sistemas reais.
-
+- Applied SQL and Python in real fraud scenarios
+- Developed analytical thinking for risk identification
+- Built structured data analysis pipeline
